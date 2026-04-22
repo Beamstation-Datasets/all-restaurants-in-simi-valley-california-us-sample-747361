@@ -9,9 +9,9 @@
 | Dataset ID | `747361` |
 | Location | Simi Valley |
 | Category | Restaurants |
-| Full dataset size | 227 records |
-| Free sample size | 22 records (9.69%) |
-| Last export | 2026-04-14T18:30:20.508999+00:00 |
+| Full dataset size | 228 records |
+| Free sample size | 22 records (9.65%) |
+| Last export | 2026-04-21T20:21:18.949717+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-simi-valley-california-us-sample-747361/releases/download/sample-latest/beamstation_747361_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
