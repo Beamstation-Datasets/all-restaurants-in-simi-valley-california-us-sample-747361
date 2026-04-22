@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Complete restaurant market coverage for Simi Valley, California with a population of over 126k. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
   "config_name": "All Restaurants in Simi Valley, California, US",
-  "export_job_id": "5175f8ff-c82c-4078-8d35-fcde93b15d86",
+  "export_job_id": "e87f0a19-93f0-48f1-9365-350ec007fb3f",
   "github_org": "Beamstation-Datasets",
   "id_short": 747361,
   "location_name": "Simi Valley",
   "location_type": "city",
   "repo_name": "all-restaurants-in-simi-valley-california-us-sample-747361",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/747361/beamstation_747361_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_pct": 9.69,
+  "sample_pct": 9.65,
   "sample_records": 22,
-  "sample_sha256": "1f099f2403e836c3d0cc164cea47a1fdf4e86892e9e1e901c3ac82781b76d7a0",
-  "sample_size_bytes": 78594,
-  "total_records": 227,
-  "updated_at": "2026-04-14T18:30:20.508999+00:00"
+  "sample_sha256": "009ac7077c646474294007139bfcaf51b3a2b5e9d884c701e0bbb7a69ebf61c0",
+  "sample_size_bytes": 89158,
+  "total_records": 228,
+  "updated_at": "2026-04-21T20:21:18.949717+00:00"
 }
