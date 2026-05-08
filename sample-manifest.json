@@ -1,12 +1,12 @@
 {
-  "export_job_id": "22033405-8435-4fff-b1df-6dca412f6c2f",
+  "export_job_id": "afd9b20b-2dc0-47b8-bac8-6ab2f44a211a",
   "id_short": 747361,
-  "published_at": "2026-04-29T07:59:26Z",
+  "published_at": "2026-05-08T07:09:14Z",
   "repo_name": "all-restaurants-in-simi-valley-california-us-sample-747361",
   "sample_asset_name": "beamstation_747361_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/747361/beamstation_747361_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 6,
-  "sample_sha256": "a6b62a683aa236bb3363e5b17c176d3ca1f459c58c7122aac022c4ad93276d9a",
-  "sample_size_bytes": 33633,
-  "total_records": 63
+  "sample_records": 22,
+  "sample_sha256": "e81f8b2c37b5516f5d1660e7128e9cb537edb775c6e4b301dbab791902d86e04",
+  "sample_size_bytes": 94303,
+  "total_records": 229
 }
